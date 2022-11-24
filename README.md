@@ -28,7 +28,7 @@ Interested and pursuing skills related to
 - 🔭 I’m a Software Engineer @ redBus, the World's Largest Bus Aggregator Platform.
 - 🧱 I work on Microservices and APIs
 - 🔭 I also work on Deep Learning
-- 💬 Ask me about Productivity, Tech, Deep Learning
+- 💬 Ask me about Productivity, Tech, Deep Learning , Backend Engineering, Formula1
 
 
 :mailbox: Reach me out!
